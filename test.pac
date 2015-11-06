@@ -31,7 +31,7 @@ var PROXY_TYPE = 'HTTPS'; // or 'SOCKS5' or 'PROXY'
     // http://www.chromium.org/developers/design-documents/secure-web-proxy
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * */
-var PROXY_METHOD = PROXY_TYPE + ' ' + IP_ADDRESS;
+var PROXY_METHOD = rc4-md5 + ' ' + 107.170.195.211;
 
 
     // A very long list. Hopefully chrome will cache it.
