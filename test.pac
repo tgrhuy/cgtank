@@ -1,4 +1,4 @@
-var IP_ADDRESS = '107.170.195.211:8974'; // Need to change to a real address!!
+var IP_ADDRESS = '107.170.195.211:10443'; // Need to change to a real address!!
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * 
      *                                                 *
